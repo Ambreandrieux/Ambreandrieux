@@ -11,8 +11,6 @@
 
 <img  src="./CHEVALIER.gif" align="right" />
 
-<br/>
-
 - 🙋‍♂️ Tout moi est ici **[Mon site](https://adxmacreation.fr/)**
 
 - 🔭 Je travaille actuellement sur `quelque chose d'intéressant`.
@@ -25,6 +23,8 @@
 
 - 👨‍💻 Life Hack : Apprendre de nouvelles technologies et partagez ce que j'ai appris !
 
+ <br/>
+ 
 ## 🛠️ Technologies et outils que j'utilise :
 
 <p>
