@@ -39,7 +39,6 @@
 <img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=%23E95420&labelColor=black">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=black">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=%23E34F26&labelColor=black">
-<img alt="TAILWINDCSS" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black">
 <img alt="NODEJS" src="https://img.shields.io/badge/nodejs-%23339933?style=for-the-badge&logo=Node.js&logoColor=%23339933&labelColor=black">
 <img alt="GIT" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=%23F05032&labelColor=black">
